@@ -27,33 +27,37 @@ This project focuses on creating an interactive dashboard using Tableau to visua
 
 The dashboard comprises the following interactive visualizations:
 
+**Dashboard**
+ ![Intractive Dashboard](my_dashboard_image.png)
+
 *   **Top 10 State Sales based on Region:** A bar chart showcasing the top 10 states by sales, filtered by region. This allows for quick identification of top-performing states within each region.
 
-    ![Top 10 State Sales based on Region](![image](https://github.com/user-attachments/assets/b23ced11-03a9-42a3-be59-aff242285d64))
+    ![Top 10 State Sales based on Region](image1.png)
+    
 
 *   **Comparison based upon Sales, Profit and Sub Categories:** A scatter plot comparing Sales and Profit across different Sub-Categories. This visualization helps to understand the relationship between sales and profit for various product sub-categories, and identify outliers.
 
-    ![Comparison based upon Sales, Profit and Sub Categories](![image](https://github.com/user-attachments/assets/0e479c7c-38a3-4518-ae36-09208ba17786))
+    ![Comparison based upon Sales, Profit and Sub Categories](image2.png)
+    
 
 *   **Maximum Sales based on Sub categories:** A bar chart displaying the maximum sales for each Sub-Category. This highlights the sub-categories with the highest sales potential.
 
-    ![Maximum Sales based on Sub categories](![image](https://github.com/user-attachments/assets/87529207-d24c-4636-b7ee-88239ba3f3d7)
-)
+    ![Maximum Sales based on Sub categories](image3.png)
+    
 
 *   **Year wise Sales and Profit:** A line chart showing the trend of Sales and Profit over the years. This visualization provides a temporal view of business performance and growth trends.
 
-    ![Year wise Sales and Profit](![image](https://github.com/user-attachments/assets/d3aeff97-bdac-4c94-9456-99e1f5b954b5)
-
+    ![Year wise Sales and Profit](image4.png)
+    
 
 *   **Product name & Sub Categories V/s Sales:** A packed bubbles chart visualizing Sales by Product Name and Sub-Category. The size of the bubbles represents the sales volume, and the color represents the Sub-Category, providing a visual hierarchy and category-based comparison.
 
-    ![Product name & Sub Categories V/s Sales](![image](https://github.com/user-attachments/assets/fa9bb0c2-a6a4-4484-a848-faf8a47c3644)
-)
+    ![Product name & Sub Categories V/s Sales](image5.png)
+    
 
 *   **Top 15 Product name and their Discount:** A slope chart displaying the top 15 products with their corresponding discounts. This visualization allows for quick identification of products with high discounts and their discount magnitudes.
 
-    ![Top 15 Product name and their Discount](![image](https://github.com/user-attachments/assets/097b1cc8-a1eb-44f9-b839-b036577c4973)
-)
+    ![Top 15 Product name and their Discount](image6.png)
     
 
 ### Instructions
@@ -69,18 +73,12 @@ The dashboard is interactive. You can explore the data by:
 *   **Tableau Public Dashboard:**
     *   [Link to your Tableau Public Dashboard (Replace with your actual link)](link-to-your-tableau-public-dashboard) *(Replace with your actual Tableau Public Dashboard link)*
 *   **Images:**
-    *   `![image](https://github.com/user-attachments/assets/8e470d51-f5ab-45c4-ab8b-724105993b4f)
-` (Top 10 State Sales based on Region)
-    *   `![image](https://github.com/user-attachments/assets/3a9d5f29-9206-49d1-887f-3ff07ee42701)
-` (Comparison based upon Sales, Profit and Sub Categories)
-    *   `![image](https://github.com/user-attachments/assets/5c70398b-0f8b-4cb8-b9a3-d5764e838091)
-` (Maximum Sales based on Sub categories)
-    *   `![image](https://github.com/user-attachments/assets/34adfee5-a857-4eea-a9f9-e1fa7b06d835)
-` (Year wise Sales and Profit)
-    *   `![Uploading image.png…]()
-` (Product name & Sub Categories V/s Sales)
-    *   `![Uploading image.png…]()
-` (Top 15 Product name and their Discount)
+    *   `image1.png` (Top 10 State Sales based on Region)
+    *   `image2.png` (Comparison based upon Sales, Profit and Sub Categories)
+    *   `image3.png` (Maximum Sales based on Sub categories)
+    *   `image4.png` (Year wise Sales and Profit)
+    *   `image5.png` (Product name & Sub Categories V/s Sales)
+    *   `image6.png` (Top 15 Product name and their Discount)
 
 ### Insights
 
