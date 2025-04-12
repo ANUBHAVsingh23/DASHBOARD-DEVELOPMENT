@@ -68,18 +68,6 @@ The dashboard is interactive. You can explore the data by:
 *   **Hovering for Details:** Hover over data points in any visualization to see detailed information like exact sales figures, profit values, product names, etc.
 *   **Exploring Different Views:** Each sheet within the Tableau workbook presents a unique perspective on the sales data. Navigate between sheets using the tabs at the bottom to explore different aspects of the data.
 
-### Deliverable
-
-*   **Tableau Public Dashboard:**
-    *   [Link to your Tableau Public Dashboard (Replace with your actual link)](link-to-your-tableau-public-dashboard) *(Replace with your actual Tableau Public Dashboard link)*
-*   **Images:**
-    *   `image1.png` (Top 10 State Sales based on Region)
-    *   `image2.png` (Comparison based upon Sales, Profit and Sub Categories)
-    *   `image3.png` (Maximum Sales based on Sub categories)
-    *   `image4.png` (Year wise Sales and Profit)
-    *   `image5.png` (Product name & Sub Categories V/s Sales)
-    *   `image6.png` (Top 15 Product name and their Discount)
-
 ### Insights
 
 The dashboard provides actionable insights including:
